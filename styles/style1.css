@@ -1,4 +1,3 @@
-/* General Styling */
 body {
     font-family: Arial, sans-serif;
     margin: 40px auto;
@@ -6,7 +5,7 @@ body {
     background: #f9f9f9;
     padding: 20px;
 }
-/* Header Section */
+
 header {
     text-align: center;
     padding: 20px;
@@ -15,8 +14,8 @@ header {
 }
 
 .initials {
-    width: 60px;
-    height: 60px;
+    width: 120px;
+    height: 120px;
     background: black;
     color: white;
     font-size: 24px;
@@ -25,6 +24,7 @@ header {
     justify-content: center;
     border-radius: 50%;
     margin: 0 auto;
+    overflow: hidden;
 }
 
 h1 {
