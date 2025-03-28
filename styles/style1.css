@@ -36,6 +36,12 @@ h2 {
     padding-bottom: 5px;
 }
 
+h3 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin: 8px 0;
+}
+
 section {
     background: white;
     margin: 10px 0;
